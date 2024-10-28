@@ -1,0 +1,17 @@
+click==8.1.7
+gensim==4.3.3
+joblib==1.4.2
+nltk==3.9.1
+numpy==1.26.4
+packaging==24.1
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2024.2
+regex==2024.9.11
+scipy==1.13.1
+six==1.16.0
+smart-open==7.0.5
+tqdm==4.66.5
+tzdata==2024.2
+wheel @ file:///usr/local/Cellar/python%403.12/3.12.7_1/libexec/wheel-0.44.0-py3-none-any.whl#sha256=c01326144883c50263d6967d1145640f3bbc8dfab32c2cbe817ef61d7a810219
+wrapt==1.16.0
